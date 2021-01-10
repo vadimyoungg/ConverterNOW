@@ -7,6 +7,7 @@ const RESOURCES = {
 "icons/Icon-192.png": "fcfd9515e216757d0c405b04a0741a21",
 "manifest.json": "33ad2b4a1951c70756e32f9796b94618",
 "assets/resources/lang/en.json": "9f43f91ab3584c3092a09c0343b7bab4",
+"assets/resources/lang/nb.json": "9cf53e16cd6cec321ec618c3d93b0537",
 "assets/resources/lang/it.json": "f910d71f1733f0f9d24bee90b0175808",
 "assets/resources/lang/pt.json": "be50017c2b404bd2fad9fa9f39efd13b",
 "assets/resources/lang/fr.json": "e8171640f2111fef88aa9017ffb413c9",
@@ -32,13 +33,13 @@ const RESOURCES = {
 "assets/resources/images/lunghezza.png": "2d57f006df44e79fa5a3b243a63bfcf1",
 "assets/resources/images/velocita.png": "a5dbe972024e38c2a26dd9854eb22438",
 "assets/NOTICES": "c5c2054aed2b584c7668be0efecf32be",
-"assets/AssetManifest.json": "bf5bf44aa5b40b766c1a0e8ec11bbef0",
+"assets/AssetManifest.json": "7224c4deede04bfeec60fe47f7697d11",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"index.html": "276cda2c1de98ca764b87bbbf2e5c0aa",
-"/": "276cda2c1de98ca764b87bbbf2e5c0aa",
-"version.json": "65e4ea473b00c7334430c896883ca5d3",
-"main.dart.js": "eb3bb8dc708f4abf62ba9590d1b6f2ec",
+"index.html": "2e80092a870c6d06e7070b7f534da57a",
+"/": "2e80092a870c6d06e7070b7f534da57a",
+"version.json": "f0126adc42016b3366407dc717ad1f0b",
+"main.dart.js": "d9afa5bec9ef7bfc9fcd9dec90b61994",
 "favicon.png": "9e118249f3d09c38b28095dbb5c14a7e"
 };
 
